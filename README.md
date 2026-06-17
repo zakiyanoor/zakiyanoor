@@ -7,7 +7,7 @@
 CS & Informatics student at Strathmore University who loves building technology that's secure and inclusive. I recently completed a cybersecurity internship in Nairobi working on real-world security operations.
 - 🔭 **Current Focus:** Secure application development and detection engineering
 - 🌱 **Learning & Exploration:** Cloud security, SIEM platforms, and advanced React
-- ⚡ **Core Interests:** Cybersecurity, inclusive EdTech, and women in STEM
+- ⚡ **Core Interests:** Cybersecurity, inclusive Tech
 
 ---
 
