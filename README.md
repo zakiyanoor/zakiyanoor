@@ -4,7 +4,7 @@
 
 # Hi there, I'm Zakiya 👋
 
-CS & Informatics student at Strathmore University who loves building technology that's secure and inclusive. I recently completed a cybersecurity internship in Nairobi working on real-world security operations.
+Software Developer & Cybersecurity Enthusiast passionate about building secure applications and reliable digital systems. I enjoy exploring emerging technologies and strengthening software security through practical development.
 - 🔭 **Current Focus:** Secure application development and detection engineering
 - 🌱 **Learning & Exploration:** Cloud security, SIEM platforms, and advanced React
 - ⚡ **Core Interests:** Cybersecurity, inclusive Tech
