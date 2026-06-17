@@ -11,6 +11,19 @@ Software Developer & Cybersecurity Enthusiast passionate about building secure a
 
 ---
 
+## 🚀 Featured Projects (Pinned Repositories)
+
+### 🔐 Swahili4Dyslexia
+A web-based learning platform designed to support language learning through structured digital tools for students with dyslexia.
+
+### 💬 chit-chat
+Secure messaging application exploring secure communication concepts and application-level security.
+
+### ☁️ ServerAdmin
+Azure VM administration and management system focused on cloud infrastructure operations and system control.
+
+---
+
 ## Technical Ecosystem
 
 ### Core Competencies & Core Stack
