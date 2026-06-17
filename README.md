@@ -11,7 +11,7 @@ Software Developer & Cybersecurity Enthusiast passionate about building secure a
 
 ---
 
-## 🚀 Featured Projects (Pinned Repositories)
+## 🚀 Featured Projects 
 
 ### 🔐 Swahili4Dyslexia
 A web-based learning platform designed to support language learning through structured digital tools for students with dyslexia.
